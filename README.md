@@ -1,6 +1,6 @@
-<h1>Hotel Management System</h1>
+<h1>HotelHub</h1>
 
-<p>Welcome to the comprehensive Hotel Management System! This project provides a user-friendly platform for booking rooms, managing services, and much more.</p>
+<p>Welcome to <strong>HotelHub</strong>! This innovative project provides a seamless and intuitive platform designed to enhance your hospitality experience. With HotelHub, you can effortlessly book rooms, explore a wide range of services, and manage your stay with just a few clicks. Whether you're planning a relaxing getaway or a business trip, HotelHub is your ultimate solution for all your accommodation needs.</p>
 
 <h2>Features</h2>
 
