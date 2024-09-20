@@ -2,7 +2,8 @@
 
 <p>Welcome to <strong>HotelHub</strong>! This innovative project provides a seamless and intuitive platform designed to enhance your hospitality experience. With HotelHub, you can effortlessly book rooms, explore a wide range of services, and manage your stay with just a few clicks. Whether you're planning a relaxing getaway or a business trip, HotelHub is your ultimate solution for all your accommodation needs.</p><br>
 
-<p>Please note that the login page has been removed to simplify access to the project, ensuring that you can easily explore all features without any barriers.</p>
+<h3>Important Info</h3>
+<p><strong>Please note that the login page has been removed to simplify access to the project, ensuring that you can easily explore all features without any barriers.</strong></p>
 
 <h2>Features</h2>
 
