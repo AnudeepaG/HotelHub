@@ -24,18 +24,14 @@
 <p>Explore a variety of services offered by the hotel.</p>
 <img src="https://github.com/user-attachments/assets/78540433-f4d7-44f3-9652-993c9fd55bb8" alt="Blog and Articles">
 
-<h3>6. Tours</h3>
-<p>Book exciting tours and explore local attractions.</p>
-<img src="https://github.com/AnudeepaG/Hotel-Management-System/assets/93423617/21c3c2a8-1283-42c8-842b-53e5c43239f5" alt="Tours">
-
-<h3>7. Extra Services</h3>
+<h3>6. Extra Services</h3>
 <p>Enjoy additional services designed to enhance your stay.</p>
 <img src="https://github.com/user-attachments/assets/45ea2692-5b58-4d8f-8c58-a4b3b5799425" alt="Extra Services">
 
-<h3>8. Guest Reviews</h3>
+<h3>7. Guest Reviews</h3>
 <p>Read reviews from previous guests to make informed choices.</p>
 <img src="https://github.com/user-attachments/assets/892e2124-58d1-44d6-826a-67405748a59b" alt="Reviews">
 
-<h3>9. Efficient Database Management</h3>
+<h3>8. Efficient Database Management</h3>
 <p>A structured database to manage all hotel data effectively.</p>
 <img src="https://github.com/user-attachments/assets/392a15c5-c15b-44bf-8317-2ad4b85a66d8" alt="Database" width="348">
